@@ -1,4 +1,4 @@
-**Git Flow Minu BB**
+**Git Flow**
 
 A nossa estrutura de branching está organizada da seguinte forma:
 
